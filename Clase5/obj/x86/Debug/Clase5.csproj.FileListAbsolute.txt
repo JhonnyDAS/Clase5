@@ -1,0 +1,12 @@
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\bin\x86\Debug\Clase5.exe.config
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\bin\x86\Debug\facultadDB.mdb
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\bin\x86\Debug\Clase5.exe
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\bin\x86\Debug\Clase5.pdb
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\Clase5.Properties.Resources.resources
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\Clase5.Vista.frmPrincipal.resources
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\Clase5.Vista.Reporte.frmRepListaEstudiante.resources
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\Clase5.csproj.GenerateResource.Cache
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\Clase5.exe
+C:\Users\Jhonny\Documents\Programas\Clase5\Clase5\obj\x86\Debug\Clase5.pdb
